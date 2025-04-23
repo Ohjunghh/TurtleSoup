@@ -73,6 +73,6 @@
 ---
 
 ## 📽️ 실제 화면
-| <img src="./img/1.jpg" width="400"/><br>시나리오 선택 | <img src="./img/2.jpg" width="400"/><br>질문 |
+| <img src="./img/1.jpg" width="500"/><br>시나리오 선택 | <img src="./img/2.jpg" width="500"/><br>질문 |
 |--------------------------------------------------------|------------------------------------------------|
-| <img src="./img/3.jpg" width="400"/><br>힌트           | <img src="./img/4.jpg" width="400"/><br>정답 제출 |
+| <img src="./img/3.jpg" width="500"/><br>힌트           | <img src="./img/4.jpg" width="500"/><br>정답 제출 |
